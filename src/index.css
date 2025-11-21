@@ -33,9 +33,51 @@ button:hover {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
   /* height: 200px; */
 }
-
+.right_side_1{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  input{
+    padding: 5px 5px;
+    width: 600px;
+    height: 30px;
+    outline: none;
+  }
+  label{
+    font-size: 20px;
+    margin-bottom: 5px;
+  }
+  button{
+    width: 500px;
+    height: 40px;
+    border: none;
+    background: rgb(40, 54, 255);
+    color: white;
+    font-size: 20px;
+    /* margin-top: 10px; */
+    border-radius: 5px;
+    margin: 10px auto ;
+  }
+}
+.one_input{
+  display: flex;
+  flex-direction: column;
+}
+.two_input{
+  display: flex;
+  flex-direction: column;
+}
+.two_in_one{
+  display: flex;
+  justify-content: space-between;
+  /* gap: 16px; */
+  input{
+    width: 290px;
+  }
+}
 .table_1 {
   text-align: left;
   width: 100%;

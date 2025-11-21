@@ -42,6 +42,51 @@ export default function CurrencyExchange() {
               <td>Australian Dollar</td>
               <td>A$</td>
             </tr>
+            <tr>
+              <td>USD</td>
+              <td>Dollar</td>
+              <td>$</td>
+            </tr>
+            <tr>
+              <td>JPY</td>
+              <td>Yen</td>
+              <td>¥</td>
+            </tr>
+            <tr>
+              <td>GBP</td>
+              <td>Pound</td>
+              <td>£</td>
+            </tr>
+            <tr>
+              <td>JPY</td>
+              <td>Yen</td>
+              <td>¥</td>
+            </tr>
+            <tr>
+              <td>GBP</td>
+              <td>Pound</td>
+              <td>£</td>
+            </tr>
+            <tr>
+              <td>JPY</td>
+              <td>Yen</td>
+              <td>¥</td>
+            </tr>
+            <tr>
+              <td>GBP</td>
+              <td>Pound</td>
+              <td>£</td>
+            </tr>
+            <tr>
+              <td>JPY</td>
+              <td>Yen</td>
+              <td>¥</td>
+            </tr>
+            <tr>
+              <td>GBP</td>
+              <td>Pound</td>
+              <td>£</td>
+            </tr>
           </tbody>
         </table>
       </div>

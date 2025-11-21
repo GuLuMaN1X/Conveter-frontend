@@ -10,7 +10,8 @@ function App() {
       <div className="left_side_1">
         <CurrencyExchange/>
       </div>
-      <div className="block_3">
+      <div className="right_side_1">
+        <CurrencyConversion/>
       </div>
     </div>
   );
