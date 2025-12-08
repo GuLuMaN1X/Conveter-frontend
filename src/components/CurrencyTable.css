@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.table-container {
+  width: 100%;
+  padding: 20px;
+  height: auto;
+  box-sizing: border-box;
+  background-color: #f5f5f5;
+}
+
+.table-title {
+  text-align: center;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.currency-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.currency-table th,
+.currency-table td {
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.currency-table th {
+  background-color: #4CAF50;
+  color: white;
+}
+
+.currency-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.currency-table tr:hover {
+  background-color: #e0f7fa;
+}
